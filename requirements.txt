@@ -1,2 +1,5 @@
-opencv-python-headless
+streamlit
+numpy
 matplotlib
+pillow
+streamlit-image-coordinates
